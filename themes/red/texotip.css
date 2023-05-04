@@ -10,7 +10,6 @@
 .tooltip {
 	text-decoration: underline;
 	cursor: pointer;
-	display: inline-block;
 	margin: 0px;
 	padding: 0px;
 	position: relative;
